@@ -1,0 +1,3 @@
+﻿  Source.cpp
+H:\GOOGLE KAYAR\DERSLER\2020-2021\Oyun Programlama\Kod\02-Temel İşlemler\ilk Hareket\Source.cpp(30,11): warning C4305: '+=': truncation from 'double' to 'float'
+  ilk Hareket.vcxproj -> H:\GOOGLE KAYAR\DERSLER\2020-2021\Oyun Programlama\Kod\02-Temel İşlemler\..\Dependencies\bin\ilk Hareket.exe
